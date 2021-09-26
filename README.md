@@ -1,6 +1,7 @@
 # deep-learning-intro-convnets
 
 Deep Learning introduction with ConvNets in Python.
+
 Dogs vs. Cats Image Classification Problem.
 
 All codes written here were implemented based on chapter 5 of the book: Deep Learning With Python, by Francois Chollet (2017).
@@ -8,6 +9,7 @@ All codes written here were implemented based on chapter 5 of the book: Deep Lea
 ---
 
 Introdução a Deep Learning com Redes Neurais Convolucionais em Python.
+
 Problema de Classificação de Cães e Gatos em imagens.
 
 Todos os códigos nesse repositório foram implementados com base no capítulo 5 do livro Deep Learning With Python (2017),
